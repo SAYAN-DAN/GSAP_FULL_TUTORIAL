@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+#page1 {
+  width: 100%;
+  height: 100%;
+  background-color: antiquewhite;
+  overflow: hidden;
+}
+/* #box {
+  width: 250px;
+  height: 250px;
+  background-color: crimson;
+} */
+h1 {
+  color: red;
+  font-size: 40px;
+}
+h2 {
+  color: blue;
+  font-size: 30px;
+}
+h3 {
+  color: green;
+  font-size: 20px;
+}
